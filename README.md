@@ -22,7 +22,7 @@ To show an image, use FullScreenImage::show
 
 	panel.show("images/myImage.jpg");
 	
-*Note* this only shows the image is already in full screen mode. Otherwise the image is loaded, and will be shown next time full screen mode is activated
+*Note* this only shows the image if already in full screen mode. Otherwise the image is loaded, and will be shown next time full screen mode is activated
 
 
 ### Toggling Between Full Screen and Normal Mode
