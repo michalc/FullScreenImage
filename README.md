@@ -1,7 +1,7 @@
 FullScreenImage
 ===============
 
-FullScreenImage allows a MooTools/Javascript developer to show images as _true_ full screen, without any knowledge of Flash/ActionScript.
+FullScreenImage allows a MooTools/Javascript developer to show images as _true_ full screen by using a small Flash applet. The developer doesn't need any knowledge of Flash/ActionScript.
 
 ![Screenshot](http://github.com/michalc/FullScreenImage/raw/master/Images/FullScreenImage.png)
 
