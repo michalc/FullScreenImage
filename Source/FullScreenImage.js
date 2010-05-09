@@ -1,3 +1,21 @@
+/*
+---
+description: Show images in true full screen using Flash
+
+license: MIT-style
+
+authors:
+- Michal Charemza
+
+requires:
+- core/Swiff
+- core/Element.Dimensions
+
+provides: [FullScreenImage]
+
+...
+*/
+
 var FullScreenImage = new Class({
 	
 	Implements: [Options, Events],
