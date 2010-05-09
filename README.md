@@ -21,6 +21,8 @@ A "button" must be chosen on the page to act as the toggle.
 To show an image, use FullScreenImage::show
 
 	panel.show("images/myImage.jpg");
+	
+*Note* this only shows the image is already in full screen mode. Otherwise the image is loaded, and will be shown next time full screen mode is activated
 
 
 ### Toggling Between Full Screen and Normal Mode
